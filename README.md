@@ -5,5 +5,5 @@ Implemented in python
 
 ## Usage example
 
-![python usage](https://github.com/Joeldoslov/commandline_forms/input.gif?raw=true)
+![python usage](https://github.com/Joeldoslov/commandline_forms/input.gif)
 

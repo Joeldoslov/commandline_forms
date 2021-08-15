@@ -3,5 +3,7 @@ Plain input ,Password input, Yes/No choice input and basic print functions
 
 Implemented in python
 
-##Usage example
+## Usage example
+
+![python usage](https://github.com/Joeldoslov/commandline_forms/input.gif?raw=true)
 

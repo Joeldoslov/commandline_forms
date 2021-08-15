@@ -5,5 +5,10 @@ Implemented in python
 
 ## Usage example
 
-![python usage](https://github.com/Joeldoslov/commandline_forms/input.gif)
+Python code:
 
+![python usage](https://github.com/Joeldoslov/commandline_forms/blob/main/input.gif)
+
+CLI output :
+
+![python usage](https://github.com/Joeldoslov/commandline_forms/blob/main/ouput.png)

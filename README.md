@@ -11,4 +11,4 @@ Python code:
 
 CLI output :
 
-![python usage](https://github.com/Joeldoslov/commandline_forms/blob/main/ouput.png)
+![python usage](https://github.com/Joeldoslov/commandline_forms/blob/main/output.png)
